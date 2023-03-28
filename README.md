@@ -1,4 +1,12 @@
-### Hi there, I'm Chen 👋
+### Hi there, I'm Chen, and welcome to my world 🌍
+#### I like creating Android apps, and I like becoming an expert in my field of knowledge. Hence:
+###### If (I like creating Android apps) && (Android app creation is my field of knowledge) && (I do what I like)
+### I will become an expert in creating Android apps
+_Happy to meet for a cup of tea, a game of chess, and the pleasure of meeting you_ 🙂👋🫖♟️🤝❤️
+
+https://www.linkedin.com/in/chen-yefet-b3010018a/
+
+
 
 <!--
 
