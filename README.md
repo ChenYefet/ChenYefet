@@ -4,7 +4,7 @@
 ### I will become an expert in creating Android apps
 _Happy to meet for a cup of tea, a game of chess, and the pleasure of meeting you_ 🙂👋🫖♟️🤝❤️
 
-https://www.linkedin.com/in/chen-yefet-b3010018a/
+https://www.linkedin.com/in/chen-yefet/
 
 
 
