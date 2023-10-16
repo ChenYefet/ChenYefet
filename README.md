@@ -1,7 +1,7 @@
 ### Hi there, I'm Chen, and welcome to my world 🌍
 ###### If (I like creating Android apps) && (Android app creation is my field of knowledge) && (I do what I like)
 ### I will become an expert in creating Android apps
-###### Check out my [Whack-A-Word educational game](https://github.com/ChenYefet/WhackAWord) which I made without the assistance of a tutorial
+###### Check out my [Whack-A-Word educational game](https://github.com/ChenYefet/WhackAWord)
 _Happy to meet for a cup of tea, a game of chess, and the pleasure of meeting you_ 🙂👋🫖♟️🤝❤️
 
 https://www.linkedin.com/in/chen-yefet/
