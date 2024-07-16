@@ -2,6 +2,8 @@
 ###### If (I like creating Android apps) && (Android app creation is my field of knowledge) && (I do what I like)
 ### I will become an expert in creating Android apps
 ###### Check out my [Whack-A-Word educational game](https://github.com/ChenYefet/WhackAWord)!
+### I also code in Python
+###### In my current role, I am using computer vision software to automate tasks and input important data to a database
 _Happy to meet for a cup of tea, a game of chess, and the pleasure of meeting you_ 🙂👋🫖♟️🤝❤️
 
 https://www.linkedin.com/in/chen-yefet/
